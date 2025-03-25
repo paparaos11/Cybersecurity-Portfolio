@@ -1,8 +1,6 @@
-Russel Dann Villalon 
+Russel Dann Villalon - Google CyberSecurity Portfolio
 
-- Google CyberSecurity Portfolio
-
-[Cybersecurity.pdf](https://github.com/user-attachments/files/19446229/Cybersecurity.pdf)
+file:///D:/1st/Certificates/Cybersecurity.pdf
 
 Certificate for Russel Dann Villalon, Google Cybersecurity, offered through Coursera.
 
