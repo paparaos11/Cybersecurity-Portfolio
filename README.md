@@ -1,66 +1,79 @@
-Russel Dann Villalon - Google CyberSecurity Portfolio
+# Miguel Raimond - Google Cyber Security Portfolio
 
-[Cybersecurity.pdf](https://github.com/user-attachments/files/19446455/Cybersecurity.pdf)
+Certificate:
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ.jpeg" alt="View certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
 
-Certificate for Russel Dann Villalon, Google Cybersecurity, offered through Coursera.
+Certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity
+Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
 
 They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
 
-The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.
+***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
 This course covered topics such as:
 
-* Risk management
-* Threat analysis
-* Network security
-* Incident response
+<li>Risk management</li>
+<li>Threat analysis</li>
+<li>Network security</li>
+<li>Incident response</li>
+
+<br>
 
 It taught me new technical skills in:
 
-* Network protocol analyzers (Wireshark and tcpdump)
-* SIEM Tools (Chronicle and Splunk)
-* IDS/IPS Tools
-* Firewalls
+<br>
+
+<li>Network protocol analyzers (Wireshark and tcpdump)</li>
+<li>SIEM Tools (Chronicle and Splunk)</li>
+<li>IDS/IPS Tools</li>
+<li>Firewalls</li>
+
+<br>
 
 And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
 
-* Python
-* SQL
-* LINUX
+<li>Python</li>
+<li>SQL</li>
+<li>Linux</li>
 
-Contents:
+<h2>Contents:</h2>
 
-Play it Safe: Manage Security Risks - 
+<br>
 
-* Botium Toys Audit
-* COmpliance Checklist
-* Controls Assesment Checklist/Priority
-* Stakeholders Memorandum
+Play It Safe: Manage Security Risks - ✔️
+  <li>Botium Toys Audit</li>
+  <li>Compliance Checklist</li>
+  <li>Controls Assesment Checklist/Priority</li>
+  <li>Stakeholders Memorandum</li>
+  
+<br>
 
-Connect and Protect: Networks and Network Security
+Connect and Protect: Networks and Network Security - ✔️
+  <li>Analyze Network Attacks</li>
+  <li>Analysis of Network Hardening</li>
+  <li>Analyze Network Layer Communications</li>
+  <li>Apply OS Hardening Techniques</li>
+  <li>NIST Incident Report Analysis</li>
+  
+<br>
 
-* Analyze Network Attacks
-* Analysis of Network Hardening
-* Analyze Network Layer Communications
-* Apply OS Hardening Techniques
-* NIST Incident Report Analysis
+Tools of the Trade: Linux & SQL - ✔️
+  <li>Manage File Permissions Linux</li>
+  <li>Apply Filters to SQL Queries</li>
+  
+<br>
 
-Tools of the Trade: Linux & SQL
+Assets, Threats, and Vulnerabilities - ✔️
+  <li>Analyze a Vulnerable System for a Small Business</li>
 
-* Manage File Permissions Linux
-* Apply Filters to SQL Queries
+<br>
 
-Assets, Threats And Vulnerabilities
+Sound the Alarm: Detection and Response - ✔️
+<li>Document Incident Handler's Journal (with template)</li>
+<li>Finalize Incident Handler's Journal</li>
 
-* Analyze a Vulnerable System for a Small Business
+<br>
 
-Sound the Alarm: Detection and Response
-
-* Document Incident Handler's Journal (with template)
-* Finalize Incident Handler's Journal
-
-Automatet Cybersecurity Tasks with Python
-
-* Update Files through a Python Algorithm
+Automate Cybersecurity Tasks with Python - ✔️
+<li>Update Files through a Python Algorithm</li>
