@@ -1,5 +1,9 @@
-Russel Dann Villalon - Google CyberSecurity Portfolio
+Russel Dann Villalon 
+
+- Google CyberSecurity Portfolio
+
 [Cybersecurity.pdf](https://github.com/user-attachments/files/19446229/Cybersecurity.pdf)
+
 Certificate for Russel Dann Villalon, Google Cybersecurity, offered through Coursera.
 
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity
